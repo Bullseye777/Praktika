@@ -10,6 +10,7 @@ public class Main {
         while (true) {
             objektas.Paklausimas();
             objektas.Sprendimas();
+
         }
     }
 }
